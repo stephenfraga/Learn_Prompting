@@ -190,4 +190,6 @@ cite them as such.
 
 #### From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models(@guo2022images)
 
+#### Ask-Me-Anything Prompting(@arora2022ama)
+
 #### Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference(@schick2020exploiting)
